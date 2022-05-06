@@ -1,0 +1,11 @@
+{
+    "include": [
+        "postman.js"
+    ],
+    "compileOnSave": true,
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "module": "commonjs",
+        "target": "es6"
+    }
+}

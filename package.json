@@ -1,0 +1,14 @@
+{
+  "name": "postman-updater",
+  "version": "0.0.1",
+  "description": "update openapi 3 in-place for postman ",
+  "main": "index.js",
+  "repository": "https://github.com/minskiter/PostmanUpdater",
+  "author": "minskiter",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.27.2",
+    "openapi-to-postmanv2": "^3.2.0"
+  }
+}
